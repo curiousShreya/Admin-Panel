@@ -1,0 +1,13 @@
+.topnav {
+    display: flex;
+    flex-direction: row;
+    /* border-bottom: 1px solid #bbb; */
+    margin-top: 20px;
+
+}
+
+.topnav > div {
+    border-right: 1px solid #c8c8c8;
+    padding: 5px;
+
+}
